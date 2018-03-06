@@ -41,8 +41,7 @@ In order to make the Sudoku Game more user-friendly we have created a graphical 
 In detail, you can search for the challenges that have been created and by double clicking on them you can join and play. When you need to enter a number in a cell, after entering it, press enter so that the placeNumber is successful.
 
 ## Testing
-The sudoku used as an example in our tests is as follows:
-[![Schermata_2018-03-06_alle_17.02.35.png](https://s14.postimg.org/s7ym8bdbl/Schermata_2018-03-06_alle_17.02.35.png)](https://postimg.org/image/y8wb5dzxp/)
+The sudoku used as an example in our tests is as follows:  [![Schermata_2018-03-06_alle_17.02.35.png](https://s14.postimg.org/s7ym8bdbl/Schermata_2018-03-06_alle_17.02.35.png)](https://postimg.org/image/y8wb5dzxp/)
 ### JUnit Test
 The test cases analyzed are in the SudokuGameTest class and are as follows:
 - 	One test for the "generateNewSudoku" method, in which we create two challenges with the same name (this is not possible);
